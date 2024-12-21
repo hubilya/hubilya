@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello 👋
+This page contains projects some of which came out painfully but with progress)
+Have fun and check them out,
+Thanks 4 coming!!
+https://media.tenor.com/tTczgq5fmVAAAAAM/tankyou.gif
 
 <!--
 **hubilya/hubilya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
