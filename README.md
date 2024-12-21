@@ -1,5 +1,5 @@
 ## Hello 👋
-# This page contains projects some of which came out painfully but with progress) <br>
+### This page contains projects some of which came out painfully but with progress) <br>
 Have fun and check them out, <br>
 
 Thanks 4 coming!! <br>
