@@ -2,7 +2,7 @@
 This page contains projects some of which came out painfully but with progress) <br>
 Have fun and check them out, <br>
 Thanks 4 coming!! <br>
-[https://media.tenor.com/tTczgq5fmVAAAAAM/tankyou.gif](https://media.tenor.com/tTczgq5fmVAAAAAM/tankyou.gif)
+img src = ("https://i.imgflip.com/rur4w.jpg")
 
 <!--
 **hubilya/hubilya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
