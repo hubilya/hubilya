@@ -1,6 +1,7 @@
 ## Hello 👋
 ### This page contains projects some of which came out painfully but with progress) <br>
-![download](https://github.com/user-attachments/assets/sH_KNNF07EoAAAAe)
+![image](https://github.com/user-attachments/assets/e4a3b6bf-7abc-4513-a6a3-4f0aecffa68f)
+
 
 Have fun and check them out, <br>
 
