@@ -3,7 +3,7 @@
 
 Have fun and check them out, <br>
 
-Thanks 4 coming!! <br>
+
 
 ![download](https://github.com/user-attachments/assets/d40241ae-e2f3-411c-87d0-5ae439b5c36f)
 
